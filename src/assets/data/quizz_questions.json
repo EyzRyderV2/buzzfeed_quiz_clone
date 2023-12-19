@@ -1,0 +1,175 @@
+{
+  "title": "Você é um cor quente ou cor frio?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual desse é seu comida favorita?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Doggão",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Soverte",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Chocolate",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Pizza",
+          "alias": "A"
+        },
+        {
+          "id": 5,
+          "name": "Biscoito",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual estação do ano é seu favorito?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Verão",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Outono",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Inverno",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Primavera",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Que tipo de pessoa Você é?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Introvertido",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Extrovertido",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Mais ou menos",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Menos ou mais",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual o seu maior foco ?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ficar rico",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ficar de Boa",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Fazer o que eu gosto",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Morrer",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu bebida favorito ?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Cafe",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Suco",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Vitamina",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Chocolate Quente",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual o seu Hobbie?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Art",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ficar na internet",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Esporte",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Comida",
+          "alias": "A"
+        },
+        {
+          "id": 5,
+          "name": "Jogar",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente gosta de cores quentes!",
+    "B": "Você muito provavelmente gosta de cores frias!"
+  }
+}
