@@ -1,0 +1,22 @@
+.home___container{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 90Vh;
+  .icons {
+
+  .fire {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+  }
+
+  .snow{
+    position: absolute;
+    bottom: -2%;
+    right: 2%;
+
+  }
+}}
